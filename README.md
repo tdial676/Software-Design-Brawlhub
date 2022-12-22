@@ -20,4 +20,4 @@ I mainly focussed on the the graphics of the character so rendering sprites, imp
     
 # To My Fellow Caltech students
 Only look at the solutions (if it's the same assignment) once you have completed the course or submitted the appropriate assignments.
-As per the Honor Code: No member of the Caltech community shall take unfair advantage of any other member of the Caltech community.
+As per the Honor Code: No member of the Caltech community shall take unfair advantage of any other member of the Caltech community. All starter code and some were tests provided by instructor.
