@@ -18,4 +18,6 @@ The plan is to ultimately use sprites, but we will start off with polygons for o
 # My Role
 I mainly focussed on the the graphics of the character so rendering sprites, implementing coin system, implementing a store and XP. I was also in charge of implementing the controls, background music, powerups, and stats for characters and enemies and varying these stats as the game progressed. As this was a group project, I helped where I could with errors and other implementations and also did not shy away from asking my team for help/clarifications when needed to make sure everything runs as smoothly as possible.
     
-    
+# To My Fellow Caltech students
+Only look at the solutions (if it's the same assignment) once you have completed the course or submitted the appropriate assignments.
+As per the Honor Code: No member of the Caltech community shall take unfair advantage of any other member of the Caltech community.
