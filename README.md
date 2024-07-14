@@ -1,6 +1,3 @@
-# CS3--Software-Design
-CS 3 is a practical introduction to designing large programs in a low-level language. Heavy emphasis is placed on documentation, testing, and software architecture. Students will work in teams in two 5-week long projects. In the first half of the course, teams will focus on testing and extensibility. In the second half of the course, teams will use POSIX APIs, as well as their own code from the first five weeks, to develop a large software deliverable. Software engineering topics covered include code reviews, testing and testability, code readability, API design, refactoring, and documentation. For my
-final project my group designed a game with the below specs:
 # General Gameplay
 In our game, we will have a character going around 2d (top-down view) map with a gun shooting enemies. Our game will feature various waves of enemies        that attempt to attack the player. As the player kills more enemies, there will be waves that will feature a higher concentration of enemies and/or more powerful enemies. Every ten waves a boss enemy will show up who will be a more challenging enemy. You lose when your health reaches zero.
 # Controls
